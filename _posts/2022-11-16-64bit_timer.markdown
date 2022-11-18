@@ -6,7 +6,7 @@ date:   2022-11-16 09:16:38 -0800
 
 # efficiently extending a 32 bit counter to 64 bits
 
-A 32 bit cycle counter wraps quite quickly, but disabling interrupts to check if the timer has wrapped is quite a few extra instructions.
+A 32 bit cycle counter wraps quite quickly, but disabling interrupts to check if the timer has wrapped is quite a few extra instructions. 
 
 The following code is the quickest way to extend a 32 bit timer to 64 bits, and this light-weight approach means that it's only slightly more expensive to use 64 bit timers and not have to worry about the case where a 32 bit timer wraps.
 
