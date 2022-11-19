@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "efficiently extending a 32 bit counter to 64 bits"
+title:  "extending 32 bit counters to 64 bit counters"
 date:   2022-11-16 09:16:38 -0800
 ---
 
