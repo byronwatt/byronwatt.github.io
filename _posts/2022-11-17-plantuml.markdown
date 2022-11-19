@@ -8,10 +8,13 @@ date:   2022-11-17 09:16:38 -0800
 
 Unfortunately github doesn't render plantuml inside markdown files, but apparently there's a 
 [kramdown plantuml](https://github.com/SwedbankPay/kramdown-plantuml)
+which lets you adds a plugin to `_config.yml`:
+```yaml
 plugins:
   - "kramdown-plantuml"
+```
 
-Which should work at least withing a github page.
+Which should work at least within a github page.
 
 Let's give it a try.
 
@@ -26,3 +29,5 @@ db -> app
 app -> client
 @enduml
 ```
+
+hmm,... not working for me, and I can't seem to find an example.
