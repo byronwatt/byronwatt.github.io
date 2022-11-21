@@ -65,7 +65,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://byronwatt.github.io"
     - label: "xkcd"
-      icon: "fa-regular fa-face-laugh"
+      icon: "far fa-smile"
       url: "https://xkcd.com/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -78,12 +78,12 @@ author:
 #      url: "https://instagram.com/"
 
 footer:
-#  links:
+  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
     - label: "xkcd"
-      icon: "fa-regular fa-face-laugh"
+      icon: "far fa-smile"
       url: "https://xkcd.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
