@@ -1,7 +1,13 @@
 ---
-layout: post
+layout: single
 title:  "simple command line options"
 date:   2022-11-1 09:16:38 -0800
+author_profile: false
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+categories:
+  - C++
 ---
 
 Mohammad wanted to borrow the CmdLineOptions library that we use at microchip so that started me down this path of starting a github page.
