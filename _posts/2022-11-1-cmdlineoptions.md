@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title:  "simple command line options"
 date:   2022-11-1 09:16:38 -0800
 author_profile: false
