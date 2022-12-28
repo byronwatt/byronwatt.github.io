@@ -15,7 +15,7 @@ categories:
 # work in progress,... need to cleanup MPU calculator.
 
 At the freertos forum I added a post here: 
-(freertos-mpu-support-in-arm-cortex-m7)[https://forums.freertos.org/t/freertos-mpu-support-in-arm-cortex-m7/15306/9] and was hoping that people might be able to reuse the work we did for calculating and displaying the MPU table.
+[freertos-mpu-support-in-arm-cortex-m7](https://forums.freertos.org/t/freertos-mpu-support-in-arm-cortex-m7/15306/9) and was hoping that people might be able to reuse the work we did for calculating and displaying the MPU table.
 
 # introduction
 
@@ -25,7 +25,7 @@ we also created a program to configure the MPU in a slightly simpler way than th
 
 here’s a git repo of our code for displaying & calculating memory maps (I still have to sanitize the code for public consumption, and show the freertos patch).
 
-https://github.com/byronwatt/MPUCalc
+[github.com/byronwatt/MPUCalc](https://github.com/byronwatt/MPUCalc)
 
 todo: add readme to MPU calc documenting:
 
