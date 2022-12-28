@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "extending 32 bit counters to 64 bit counters"
-date:   2022-11-16 09:16:38 -0800
+title:  "MPU calculator for cortex-M7"
+date:   2022-12-27 09:16:38 -0800
 author_profile: false
 toc: true
 toc_label: "  Contents"
