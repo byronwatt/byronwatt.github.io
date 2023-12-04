@@ -14,6 +14,8 @@ categories:
 
 # Anna’s Hermit Cookies
 
+![](/assets/images/annas_recipe.jpg)
+
 ## Ingredients (in theory)
 
 ```
@@ -69,5 +71,9 @@ Let the cookies cool for 1 minute on the sheets, then transfer them to wire rack
 
 Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
-![](/assets/images/annas_recipe.jpg)
+# instructions from "the complete cookie"
+
+![](/assets/images/complete_cookie1.jpg)
+
+![](/assets/images/complete_cookie2.jpg)
 
