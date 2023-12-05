@@ -34,9 +34,9 @@ categories:
     1 large egg
     2 tablespoons of golden rum
     2 cups total of nuts/fruit e.g.:
-    ⅔ cup chopped walnuts
-    1 cup of raisins/dates/sour cherries 
-    ¼ cup chopped dried apricots 
+        ⅔ cup chopped walnuts
+        1 cup of raisins/dates/sour cherries 
+        ¼ cup chopped dried apricots 
 </pre>
 
 ## Reality
