@@ -76,5 +76,26 @@ Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
 ![](/assets/images/complete_cookie_1.jpg)
 
-![](/assets/images/complete_cookie2.jpg)
+![](/assets/images/complete_cookie_2.jpg)
 
+# nutritional info
+
+chatgpt says per cookie: (% RDA)
+
+* Calories: Around 150-180 kcal (7.5%-9% of a 2,000-calorie diet)
+* Total Fat: 7-9g (11%-14%)
+  * Saturated Fat: 3-4g (15%-20%)
+  * Trans Fat: 0g
+* Cholesterol: 20-30mg (6%-10%)
+* Sodium: 120-150mg (5%-6%)
+* Total Carbohydrates: 20-25g (7%-8%)
+  * Dietary Fiber: 1-2g (4%-8%)
+  * Sugars: 10-15g
+* Protein: 2-3g (4%-6%)
+
+Vitamins and Minerals:
+
+* Vitamin A: 50-100 IU (1%-2%)
+* Vitamin C: 0.5-1mg (1%-2%)
+* Calcium: 20-30mg (2%-3%)
+* Iron: 1-2mg (6%-11%)
