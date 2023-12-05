@@ -40,13 +40,13 @@ categories:
 </pre>
 
 ## Reality
-More nutmeg, cloves, allspice, last time i used ⅓ c of molasses, but i’ll try ½ c this time (more sugar might make them moister).
+More nutmeg, cloves, allspice, last time I used ⅓ c of molasses, but I’ll try ½ c this time (more sugar might make them moister).
 
 2 tablespoons of appleton rum,... sometimes a weeee bit more.
 
-Haven’t measured the fruit and nuts - i’m probably putting in more than i’m supposed to.
+Haven’t measured the fruit and nuts - I’m probably putting in more than I’m supposed to.
 
-Been using unsalted butter - grass fed butter Anna’s hair dresser Tracy said it’s sooooo much better - and i was on keto at the time filling my face with butter.
+Been using unsalted butter - grass fed butter Anna’s hair dresser Tracy said it’s sooooo much better - and I was on keto at the time filling my face with butter.
 
 ## Instructions
 
@@ -57,6 +57,7 @@ Lightly grease cookie sheets with butter
 Combine dry stuff in bowl and whisk
 
 Cream the butter in a large mixing bowl with an electric mixer at medium speed.
+
 Beat in the sugar, add the egg and beat until fluffy (i haven’t seen it turn fluffy,... but maybe a bit whiter), add rum & molasses.   Note: scrap the sides periodically otherwise there will be clumps of pure butter in the final batter.
 
 Recipe says with wooden spoon stir in walnuts, sour cherries, dates, raisins & apricots, but with kitchen aid mixer, i just do a few half rotations on slow speed.
