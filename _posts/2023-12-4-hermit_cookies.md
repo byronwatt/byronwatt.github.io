@@ -18,26 +18,26 @@ categories:
 
 ## Ingredients (in theory)
 
-```
-2 cups of flour
-1 tsp baking soda
-1 tsp baking powder
-½ tsp salt
-1½ tsp cinnamon
-½ tsp nutmeg
-3 tsp ginger
-½ tsp cloves
-⅛ tsp allspice
-½ cup butter at room temperature
-½ cup brown sugar
-½ cup fancy molasses
-1 large egg
-2 tablespoons of golden rum
-2 cups total of nuts/fruit e.g.:
-⅔ cup chopped walnuts
-1 cup of raisins/dates/sour cherries 
-¼ cup chopped dried apricots 
-```
+<pre>
+    2 cups of flour
+    1 tsp baking soda
+    1 tsp baking powder
+    ½ tsp salt
+    1½ tsp cinnamon
+    ½ tsp nutmeg
+    3 tsp ginger
+    ½ tsp cloves
+    ⅛ tsp allspice
+    ½ cup butter at room temperature
+    ½ cup brown sugar
+    ½ cup fancy molasses
+    1 large egg
+    2 tablespoons of golden rum
+    2 cups total of nuts/fruit e.g.:
+    ⅔ cup chopped walnuts
+    1 cup of raisins/dates/sour cherries 
+    ¼ cup chopped dried apricots 
+</pre>
 
 ## Reality
 More nutmeg, cloves, allspice, last time i used ⅓ c of molasses, but i’ll try ½ c this time (more sugar might make them moister).
@@ -57,7 +57,7 @@ Lightly grease cookie sheets with butter
 Combine dry stuff in bowl and whisk
 
 Cream the butter in a large mixing bowl with an electric mixer at medium speed.
-Beat in the sugar, add the egg and beat until fluffy (i haven’t seen it turn fluffy,... but maybe a bit whiter), add rum & molasses
+Beat in the sugar, add the egg and beat until fluffy (i haven’t seen it turn fluffy,... but maybe a bit whiter), add rum & molasses.   Note: scrap the sides periodically otherwise there will be clumps of pure butter in the final batter.
 
 Recipe says with wooden spoon stir in walnuts, sour cherries, dates, raisins & apricots, but with kitchen aid mixer, i just do a few half rotations on slow speed.
 
@@ -73,7 +73,7 @@ Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
 # instructions from "the complete cookie"
 
-![](/assets/images/complete_cookie1.jpg)
+![](/assets/images/complete_cookie_1.jpg)
 
 ![](/assets/images/complete_cookie2.jpg)
 
