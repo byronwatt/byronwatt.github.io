@@ -1,7 +1,6 @@
 ---
 layout: single
 classes: wide
----
 title:  "Anna's Hermit cookies"
 date:   2023-12-6 09:16:38 -0800
 author_profile: false
@@ -10,10 +9,9 @@ toc_label: "  Contents"
 toc_icon: "file-alt"
 categories:
   - xmas
-
+---
 
 # Anna’s Hermit Cookies
-    ⅛ tsp allspice
 
 ![](/assets/images/annas_recipe.jpg)
 
@@ -28,6 +26,7 @@ categories:
     ½ tsp nutmeg
     3 tsp ginger
     ½ tsp cloves
+    ⅛ tsp allspice
     ½ cup butter at room temperature
     ½ cup brown sugar
     ½ cup fancy molasses
