@@ -16,7 +16,7 @@ categories:
 ![](/assets/images/annas_recipe.jpg)
 
 ## Ingredients (in theory)
-
+<img align="right" width="40%" src="/assets/images/annas_recipe.jpg"/>
 <pre>
     2 cups of flour
     1 tsp baking soda
@@ -34,12 +34,12 @@ categories:
     2 tablespoons of golden rum
     2 cups total of nuts/fruit e.g.:
         ⅔ cup chopped walnuts
-        1 cup of raisins/dates/sour cherries 
+        1 cup of raisins or crasins/dates/sour cherries 
         ¼ cup chopped dried apricots 
 </pre>
 
 ## Reality
-More nutmeg, cloves, allspice, last time I used ⅓ c of molasses, but I’ll try ½ c this time (more sugar might make them moister).
+More nutmeg, cloves, allspice, last time I used ⅓ c of molasses, but I’ll try ½ c this time (more sugar might make them even moister?).
 
 2 tablespoons of appleton rum,... sometimes a weeee bit more.
 
@@ -59,7 +59,7 @@ Cream the butter in a large mixing bowl with an electric mixer at medium speed.
 
 Beat in the sugar, add the egg and beat until fluffy (i haven’t seen it turn fluffy,... but maybe a bit whiter), add rum & molasses.   Note: scrap the sides periodically otherwise there will be clumps of pure butter in the final batter.
 
-Recipe says with wooden spoon stir in walnuts, sour cherries, dates, raisins & apricots, but with kitchen aid mixer, i just do a few half rotations on slow speed.
+Recipe says with wooden spoon stir in walnuts, sour cherries, dates, raisins & apricots, but with kitchen aid mixer, i just do a few half rotations on slowest speed.
 
 Add flour mixture and stir until incorporated. (what’s incorporated mean?),... i again use a few half rotations of the kitchen aid, and when spooning out the dough try to work in the stubborn bits of flour.
 
