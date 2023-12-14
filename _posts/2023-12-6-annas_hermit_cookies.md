@@ -77,11 +77,11 @@ Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 freshly shaved nutmeg.
 </p>
 <img width="40%" src="/assets/images/nutmeg.jpg"/>
-</p>
-using a morter and pestle for the cloves & all spice,... fun and a good workout !
-
-i tried to grind cinnamon that way too but couldn't do it!
 <p>
+using a morter and pestle for the cloves & all spice,... fun and a good workout !  
+
+I tried to grind cinnamon with the morter & pestle but couldn't do it!
+</p>
 <img width="40%" src="/assets/images/cloves.jpg"/>
 
 ## instructions from "the complete cookie"
