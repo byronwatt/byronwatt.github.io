@@ -15,7 +15,7 @@ categories:
 
 <!-- not sure how to add width tag !
   ![](/assets/images/annas_recipe.jpg) -->
-<img width="45%" src="/assets/images/annas_recipe.jpg"/>
+<img width="60%" src="/assets/images/annas_recipe.jpg"/>
 
 ## Ingredients (in theory)
 <pre>
@@ -40,9 +40,9 @@ categories:
 </pre>
 
 ## Reality
-More nutmeg, cloves, allspice, last time I used ⅓ cup of molasses, but I’ll try ½ cup this time (more sugar might make them even moister?).
+More nutmeg, cloves, allspice and ginger.
 
-2 tablespoons of appleton rum,... sometimes a weeee bit more.
+Yes, more rum than the recipe suggests.
 
 Haven’t measured the fruit and nuts - I’m probably putting in more than I’m supposed to, and using craisins instead of raisins
 
@@ -78,9 +78,9 @@ freshly shaved nutmeg.
 <br/>
 <img width="40%" src="/assets/images/nutmeg.jpg"/>
 <br/>
-Used a morter and pestle for the cloves & all spice,... fun and a good workout !  
+Used a mortar and pestle for the cloves & all spice,... fun and a good workout !  
 <br/>
-I tried to grind cinnamon with the morter & pestle but couldn't do it!
+I tried to grind cinnamon with the mortar & pestle but couldn't do it!
 <br/>
 <img width="40%" src="/assets/images/cloves.jpg"/>
 
