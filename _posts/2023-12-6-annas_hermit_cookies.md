@@ -15,7 +15,7 @@ categories:
 
 <!-- not sure how to add width tag !
   ![](/assets/images/annas_recipe.jpg) -->
-<img width="30%" src="/assets/images/annas_recipe.jpg"/>
+<img width="45%" src="/assets/images/annas_recipe.jpg"/>
 
 ## Ingredients (in theory)
 <pre>
@@ -102,32 +102,68 @@ It takes me forever to cut the dates & apricots & sour cherries,... I dust the k
  -->
 <img width="40%" src="/assets/images/complete_cookie_1.jpg"/>
 <br/>
-<br/>
 <img width="70%" src="/assets/images/complete_cookie_2.jpg"/>
 
 ## nutritional info
 
 <!--
 
+what is the nutritional value (including vitamins & minerals) of 2 dozen cookies made with the following ingredients:
+
+    2 cups of robin hood unbleached flour
+    1 tsp baking soda
+    1 tsp baking powder
+    1/2 tsp salt
+    1.5 tsp cinnamon
+    2 tsp nutmeg
+    4 tsp ginger
+    2 tsp cloves
+    1/2 tsp allspice
+    1/2 cup grass fed organic unsalted butter
+    1/2 cup brown sugar
+    1/2 cup fancy molasses
+    1 large organic egg
+    3 tablespoons of golden rum
+    1/2 cup chopped walnuts
+    1/3 cup of cranberries
+    1/3 cup of medjool dates
+    1/3 cup of sour cherries
+    1/3 cup of dried apricots
 
 -->
+chatgpt says:
 
-chatgpt says per cookie: (% RDA)
+Assuming 24 cookies, each cookie would have roughly 165 calories, 4g protein, 29g carbs, and 8g fat.
 
-* Calories: Around 150-180 kcal (7.5%-9% of a 2,000-calorie diet)
-* Total Fat: 7-9g (11%-14%)
-  * Saturated Fat: 3-4g (15%-20%)
-  * Trans Fat: 0g
-* Cholesterol: 20-30mg (6%-10%)
-* Sodium: 120-150mg (5%-6%)
-* Total Carbohydrates: 20-25g (7%-8%)
-  * Dietary Fiber: 1-2g (4%-8%)
-  * Sugars: 10-15g
-* Protein: 2-3g (4%-6%)
+<i>Can you also summarize the vitamins and minerals?</i>
 
-Vitamins and Minerals:
+Certainly, let's summarize the vitamins and minerals present in the ingredients:
 
-* Vitamin A: 50-100 IU (1%-2%)
-* Vitamin C: 0.5-1mg (1%-2%)
-* Calcium: 20-30mg (2%-3%)
-* Iron: 1-2mg (6%-11%)
+### Vitamins and Minerals:
+
+#### From Flour and Spices:
+
+Flour: Contains some B-vitamins and iron.
+
+Cinnamon, nutmeg, ginger, cloves, allspice: These spices may contain small amounts of various vitamins and minerals, such as vitamin C, vitamin K, and manganese.
+
+#### From Butter, Egg, and Molasses:
+
+Butter: Contains small amounts of vitamins A and D.
+
+Egg: Good source of vitamins B2 (riboflavin), B12, and D, as well as minerals like selenium.
+
+Molasses: Contains iron, calcium, magnesium, and potassium.
+
+#### From Walnuts and Dried Fruits:
+
+Walnuts: Good source of omega-3 fatty acids, vitamin E, and some minerals like manganese and copper.
+
+Dried fruits (cranberries, dates, sour cherries, dried apricots): May contain small amounts of various vitamins and minerals, such as vitamin C, vitamin K, potassium, and iron.
+
+#### Overall:
+
+The cookies will provide a mix of vitamins and minerals, including B-vitamins, vitamin D, vitamin E, vitamin K, iron, calcium, magnesium, potassium, selenium, manganese, copper, and possibly small amounts of other micronutrients.
+
+While these ingredients do contribute some vitamins and minerals, it's important to note that the overall nutritional profile of the cookies is still dominated by carbohydrates, fats, and sugars. Eating a diverse range of nutrient-dense foods is crucial for meeting daily vitamin and mineral requirements.
+
