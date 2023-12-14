@@ -84,6 +84,14 @@ I tried to grind cinnamon with the morter & pestle but couldn't do it!
 <br/>
 <img width="40%" src="/assets/images/cloves.jpg"/>
 
+It takes me forever to cut the dates & apricots & sour cherries,... I dust the knife and cut edges in flour so they don't get stuck together, but it is still a mess.
+
+<img width="30%" src="/assets/images/wet.jpg"/>&nbsp;
+<img width="30%" src="/assets/images/mixing.jpg"/>&nbsp;
+<img width="30%" src="/assets/images/mixed.jpg"/>
+<img width="40%" src="/assets/images/blobs.jpg"/>&nbsp;
+<img width="40%" src="/assets/images/cooling.jpg"/>
+
 ## instructions from "the complete cookie"
 
 <!-- not sure how to add width tag !
@@ -93,6 +101,8 @@ I tried to grind cinnamon with the morter & pestle but couldn't do it!
 
  -->
 <img width="40%" src="/assets/images/complete_cookie_1.jpg"/>
+<br/>
+<br/>
 <img width="70%" src="/assets/images/complete_cookie_2.jpg"/>
 
 ## nutritional info
