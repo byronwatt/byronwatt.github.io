@@ -34,7 +34,7 @@ categories:
     2 tablespoons of golden rum
     2 cups total of nuts/fruit e.g.:
         ⅔ cup chopped walnuts
-        1 cup of raisins or crasins/dates/sour cherries 
+        1 cup of raisins/dates/sour cherries 
         ¼ cup chopped dried apricots 
 </pre>
 
@@ -43,7 +43,7 @@ More nutmeg, cloves, allspice, last time I used ⅓ c of molasses, but I’ll tr
 
 2 tablespoons of appleton rum,... sometimes a weeee bit more.
 
-Haven’t measured the fruit and nuts - I’m probably putting in more than I’m supposed to.
+Haven’t measured the fruit and nuts - I’m probably putting in more than I’m supposed to, and using craisins instead of raisins
 
 Been using unsalted butter - grass fed butter Anna’s hair dresser Tracy said it’s sooooo much better - and I was on keto at the time filling my face with butter.
 
@@ -71,6 +71,19 @@ Let the cookies cool for 1 minute on the sheets, then transfer them to wire rack
 
 Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
+<p float="left">
+<img width="70%" src="/assets/images/hermit_ingredients.jpg"/>
+<p float="left">
+</p>
+freshly shaved nutmeg.
+<img width="30%" src="/assets/images/nutmeg.jpg"/>
+using a morter and pestle for the cloves & all spice,... fun and a good workout !
+
+i tried to grind cinnamon that way too but couldn't do it!
+<img width="30%" src="/assets/images/cloves.jpg"/>
+</p>
+
+
 # instructions from "the complete cookie"
 
 ![](/assets/images/complete_cookie_1.jpg)
@@ -78,6 +91,11 @@ Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 ![](/assets/images/complete_cookie_2.jpg)
 
 # nutritional info
+
+<!--
+
+
+-->
 
 chatgpt says per cookie: (% RDA)
 
