@@ -13,10 +13,11 @@ categories:
 
 # Anna’s Hermit Cookies
 
-![](/assets/images/annas_recipe.jpg)
+<!-- not sure how to add width tag !
+  ![](/assets/images/annas_recipe.jpg) -->
+<img width="70%" src="/assets/images/annas_recipe.jpg"/>
 
 ## Ingredients (in theory)
-<img align="right" width="40%" src="/assets/images/annas_recipe.jpg"/>
 <pre>
     2 cups of flour
     1 tsp baking soda
@@ -33,8 +34,8 @@ categories:
     1 large egg
     2 tablespoons of golden rum
     2 cups total of nuts/fruit e.g.:
-        ⅔ cup chopped walnuts
-        1 cup of raisins/dates/sour cherries 
+        ⅔ cup chopped walnuts  
+        1 cup of raisins/crasins/dates/sour cherries 
         ¼ cup chopped dried apricots 
 </pre>
 
@@ -71,24 +72,28 @@ Let the cookies cool for 1 minute on the sheets, then transfer them to wire rack
 
 Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
-<p float="left">
 <img width="70%" src="/assets/images/hermit_ingredients.jpg"/>
-<p float="left">
-</p>
+<p>
 freshly shaved nutmeg.
-<img width="30%" src="/assets/images/nutmeg.jpg"/>
+<p>
+<img width="40%" src="/assets/images/nutmeg.jpg"/>
+<p>
 using a morter and pestle for the cloves & all spice,... fun and a good workout !
 
 i tried to grind cinnamon that way too but couldn't do it!
-<img width="30%" src="/assets/images/cloves.jpg"/>
-</p>
-
+<p>
+<img width="40%" src="/assets/images/cloves.jpg"/>
 
 # instructions from "the complete cookie"
 
+<!-- not sure how to add width tag !
 ![](/assets/images/complete_cookie_1.jpg)
 
 ![](/assets/images/complete_cookie_2.jpg)
+
+ -->
+<img width="40%" src="/assets/images/complete_cookie_1.jpg"/>
+<img width="70%" src="/assets/images/complete_cookie_2.jpg"/>
 
 # nutritional info
 
