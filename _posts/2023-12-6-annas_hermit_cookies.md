@@ -15,7 +15,7 @@ categories:
 
 <!-- not sure how to add width tag !
   ![](/assets/images/annas_recipe.jpg) -->
-<img width="70%" src="/assets/images/annas_recipe.jpg"/>
+<img width="40%" src="/assets/images/annas_recipe.jpg"/>
 
 ## Ingredients (in theory)
 <pre>
@@ -35,18 +35,18 @@ categories:
     2 tablespoons of golden rum
     2 cups total of nuts/fruit e.g.:
         ⅔ cup chopped walnuts  
-        1 cup of raisins/crasins/dates/sour cherries 
+        1 cup of raisins/dates/sour cherries 
         ¼ cup chopped dried apricots 
 </pre>
 
 ## Reality
-More nutmeg, cloves, allspice, last time I used ⅓ c of molasses, but I’ll try ½ c this time (more sugar might make them even moister?).
+More nutmeg, cloves, allspice, last time I used ⅓ cup of molasses, but I’ll try ½ cup this time (more sugar might make them even moister?).
 
 2 tablespoons of appleton rum,... sometimes a weeee bit more.
 
 Haven’t measured the fruit and nuts - I’m probably putting in more than I’m supposed to, and using craisins instead of raisins
 
-Been using unsalted butter - grass fed butter Anna’s hair dresser Tracy said it’s sooooo much better - and I was on keto at the time filling my face with butter.
+Been using unsalted butter - grass fed butter since Anna’s hair dresser Tracy said it’s sooooo much better - and I was on keto at the time filling my face with butter.  She's not wrong.
 
 ## Instructions
 
