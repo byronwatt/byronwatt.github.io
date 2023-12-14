@@ -15,7 +15,7 @@ categories:
 
 <!-- not sure how to add width tag !
   ![](/assets/images/annas_recipe.jpg) -->
-<img width="40%" src="/assets/images/annas_recipe.jpg"/>
+<img width="30%" src="/assets/images/annas_recipe.jpg"/>
 
 ## Ingredients (in theory)
 <pre>
@@ -73,15 +73,15 @@ Let the cookies cool for 1 minute on the sheets, then transfer them to wire rack
 Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 
 <img width="70%" src="/assets/images/hermit_ingredients.jpg"/>
-<p>
+<br/>
 freshly shaved nutmeg.
-</p>
+<br/>
 <img width="40%" src="/assets/images/nutmeg.jpg"/>
-<p>
-using a morter and pestle for the cloves & all spice,... fun and a good workout !  
-
+<br/>
+Used a morter and pestle for the cloves & all spice,... fun and a good workout !  
+<br/>
 I tried to grind cinnamon with the morter & pestle but couldn't do it!
-</p>
+<br/>
 <img width="40%" src="/assets/images/cloves.jpg"/>
 
 ## instructions from "the complete cookie"
