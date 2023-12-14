@@ -75,16 +75,16 @@ Recipe says it makes 5 dozen, but it only makes 2 dozen of the size we make.
 <img width="70%" src="/assets/images/hermit_ingredients.jpg"/>
 <p>
 freshly shaved nutmeg.
-<p>
+</p>
 <img width="40%" src="/assets/images/nutmeg.jpg"/>
-<p>
+</p>
 using a morter and pestle for the cloves & all spice,... fun and a good workout !
 
 i tried to grind cinnamon that way too but couldn't do it!
 <p>
 <img width="40%" src="/assets/images/cloves.jpg"/>
 
-# instructions from "the complete cookie"
+## instructions from "the complete cookie"
 
 <!-- not sure how to add width tag !
 ![](/assets/images/complete_cookie_1.jpg)
@@ -95,7 +95,7 @@ i tried to grind cinnamon that way too but couldn't do it!
 <img width="40%" src="/assets/images/complete_cookie_1.jpg"/>
 <img width="70%" src="/assets/images/complete_cookie_2.jpg"/>
 
-# nutritional info
+## nutritional info
 
 <!--
 
