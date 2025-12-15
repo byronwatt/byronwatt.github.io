@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://byronwatt.github.io/sitemap.xml
